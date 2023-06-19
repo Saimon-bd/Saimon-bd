@@ -1,13 +1,14 @@
 I am [Ashraf Bhuiya](https://www.linkedin.com/in/ashrafcloud/), a Cloud Engineer; passionate about Cloud, DevOps & cutting-edge technologies with 3+ years of professional onsite  working experience. 🎯
 
-I mostly work with Cloud, DevOps and Cloud based technologies. 🚀
+I mostly work with Cloud, DevOps, and Cloud-based technologies. 🚀
+
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Kubernetes, Python**
 
 - 📝 I regularly write articles on [https://ashrafsaimon.medium.com/](https://ashrafsaimon.medium.com/)
 
-- 💬 Ask me about **AWS, Azure, Linux, Cybersecurity**
+- 💬 Ask me about **AWS, Azure, Linux, and Cybersecurity**
 
   
 ### DevOps
