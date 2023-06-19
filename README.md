@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ashraf Bhuiya</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer from Bangladesh..</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer from Bangladesh.</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Kubernetes, Python**
 
 - 📝 I regularly write articles on [https://ashrafsaimon.medium.com/](https://ashrafsaimon.medium.com/)
 
-- 💬 Ask me about **AWS, Azure, Linux, and Cybersecurity**
+- 💬 Ask me about **AWS, Azure, Linux, Cybersecurity**
 
 - 📫 How to reach me **saimondevops@gmail.com**
 
@@ -14,8 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hashnode.com/@ashrafsaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashrafsaimon" height="30" width="40" /></a>
-<a href="https://medium.com/@ashrafsaimon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ashrafsaimon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md. ashraf bhuiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. ashraf bhuiya" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ashraf67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ashraf67" height="30" width="40" /></a>
+<a href="https://medium.com/@md. ashraf bhuiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@md. ashraf bhuiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ashrafbhuif"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ashrafbhuif" /></a></p><br><br>
+
