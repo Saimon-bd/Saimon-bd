@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashraf Bhuiya</h1>
-<h3 align="center">A passionate Cloud & DevOps Engineer from Bangladesh.I am a certified Azure Solution Architect, that brings passion and enthusiasm to everything I do. I focus on emerging technologies and innovation, utilizing my knowledge and insatiable drive for learning the cutting-edge in cloud and DevOps.</h3>
+<h3 align="center">A passionate Cloud & DevOps Engineer from Bangladesh.I am a certified Azure Solution Architect. I focus on emerging technologies and innovation, utilizing my knowledge and insatiable drive for learning the cutting-edge in cloud and DevOps.</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning **Kubernetes**
